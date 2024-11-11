@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
-## Name: SYED ABBU REHAN
-## Register Number: 212223240165
+## Name: POCHI REDDY
+## Register Number: 212223240115
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
